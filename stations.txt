@@ -1,0 +1,9 @@
+8
+Barney 12 -1 -3
+Bart -4 7 -5
+Betty 3 5 4
+Fred 10 -3 6
+Homer 5 5 5
+Lisa 3 6 -2
+Marge -5 -4 -3
+Wilma 8 3 3
